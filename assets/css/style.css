@@ -307,6 +307,10 @@ nav {
     margin-top: 8px;
 }
 
+.d-md-flex{
+    display: flex;
+}
+
 .ml-20 {
     margin-left: 20px;
 }
@@ -444,4 +448,8 @@ nav {
 .border-btn:hover{
         background: rgba(44, 73, 254, 0.10);
     color: #000;
+}
+
+.play-btn:hover{
+    cursor:pointer;
 }
